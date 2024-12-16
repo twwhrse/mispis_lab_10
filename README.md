@@ -45,8 +45,9 @@
 1. **Use-case**
 ![usecase диаграмма](https://github.com/user-attachments/assets/aa38f238-ec12-4d90-ab8b-7fddc212e618)
 2. **Диаграмма активности**
+
 ![Диаграмма активности](https://github.com/user-attachments/assets/9a48f64b-dee1-4907-8bf1-15d8c0c374b6)
-3. **Диаграмма классов**
+4. **Диаграмма классов**
 
 ![Диаграмма классов](https://github.com/user-attachments/assets/4bae6dee-5289-4163-92c1-ef6f914b9cce)
 5. **Диаграмма последовательности**
