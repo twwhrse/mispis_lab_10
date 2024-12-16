@@ -47,8 +47,8 @@
 2. **Диаграмма активности**
 
 ![Диаграмма активности](https://github.com/user-attachments/assets/9a48f64b-dee1-4907-8bf1-15d8c0c374b6)
-4. **Диаграмма классов**
 
+4. **Диаграмма классов**
 ![Диаграмма классов](https://github.com/user-attachments/assets/4bae6dee-5289-4163-92c1-ef6f914b9cce)
 5. **Диаграмма последовательности**
 ![Диаграмма последовательности](https://github.com/user-attachments/assets/e49427b7-49d3-4478-b006-3e0201ec397a)
